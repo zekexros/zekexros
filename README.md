@@ -23,5 +23,3 @@ Welcome to my page!
 ## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeke-iOS&&show_icons=true&theme=radical)   
 
-## Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeke-iOS)
